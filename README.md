@@ -6,7 +6,7 @@ El proyecto está organizado de manera modular para facilitar su uso y comprensi
 
 La estructura del proyecto está organizada de la siguiente manera:
 
-´´´bash
+´´´
 /red-GAN-train-pytorch
     ├── src/
     │   ├── generator.py        # Red generadora
@@ -34,7 +34,7 @@ La estructura del proyecto está organizada de la siguiente manera:
 
 Primero, instala las dependencias necesarias para ejecutar el proyecto. Estas están listadas en el archivo requirements.txt.
 
-´´´bash
+´´´
 pip install -r requirements.txt
 
 ´´´
