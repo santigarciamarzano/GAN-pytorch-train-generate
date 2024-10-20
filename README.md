@@ -7,6 +7,7 @@ El proyecto está organizado de manera modular para facilitar su uso y comprensi
 La estructura del proyecto está organizada de la siguiente manera:
 
 ´´´
+
 /red-GAN-train-pytorch
     ├── src/
     │   ├── generator.py        # Red generadora
@@ -16,6 +17,7 @@ La estructura del proyecto está organizada de la siguiente manera:
     ├── main_notebook.ipynb     # Archivo Jupyter Notebook
     ├── README.md               # Documentación del proyecto
     ├── requirements.txt        # Librerías necesarias
+
 ´´´
 
 ## Descripción de Archivos:
